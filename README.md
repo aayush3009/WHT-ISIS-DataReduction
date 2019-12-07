@@ -3,6 +3,7 @@ Simple scripts to reduce WHT ISIS long-slit spectra. The basic reduction is perf
 
 To be done: 
 
-- Add wavelength calibration generalised to the 2D spectrum.
-- Add 1D spectrum extraction based on a given aperture.
 - Add flux calibration of the 1D extracted spectrum.
+
+Changelog:
+7/12/2019 - Added wavelength calibration and 1D spectrum extraction
