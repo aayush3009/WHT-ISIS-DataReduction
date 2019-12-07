@@ -5,5 +5,5 @@ To be done:
 
 - Add flux calibration of the 1D extracted spectrum.
 
-Changelog:
+### Changelog:
 7/12/2019 - Added wavelength calibration and 1D spectrum extraction
