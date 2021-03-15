@@ -1,5 +1,5 @@
 # WHT-ISIS-DataReduction
-Simple scripts to reduce WHT ISIS long-slit spectra. The basic reduction is performed using scripts provided by Steve Crawford.
+A collection of Python scripts to reduce WHT ISIS long-slit spectra. The basic reduction is performed using scripts provided by Steve Crawford built on the CCDproc package.
 
 To be done: 
 
