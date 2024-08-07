@@ -68,6 +68,8 @@ To use the Jupyter Notebook for wavelength calibration, follow these steps:
 
 ### Notes
 
+- The code was originally based on scripts by Steve Crawford, with modifications for specific reduction steps like wavelength calibration and flat processing.
+- Update the paths and object names as per your observation details.
 - The notebook is designed to work with data obtained from the William Herschel Telescope (WHT) using the ISIS spectrograph.
 - Ensure that you have access to the arc calibration files and the WHT arcs PDF for accurate wavelength calibration.
 - The notebook is flexible and can be adapted for different datasets or calibration requirements.
@@ -76,10 +78,6 @@ To use the Jupyter Notebook for wavelength calibration, follow these steps:
 
 This Jupyter Notebook serves as a detailed guide for performing wavelength calibration on WHT ISIS long slit data. By following the steps outlined, users can achieve accurate wavelength solutions for both the blue and red arms and extract high-quality 1D spectra for their astronomical analysis.
 
-### Notes
-
-- The code was originally based on scripts by Steve Crawford, with modifications for specific reduction steps like wavelength calibration and flat processing.
-- Update the paths and object names as per your observation details.
 
 ## Acknowledgments
 
